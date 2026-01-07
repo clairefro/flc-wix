@@ -1,6 +1,7 @@
 // 2026-01-07 - working with filters
 // create sep sections for: country/search filter ; selectionTags ; indicator msg ; pagination bar ; padding (hide on mobile)
 // only sections are truly collapsable in height
+// For card display: use repeater and connect to CMS
 
 import wixData from "wix-data";
 
